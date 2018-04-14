@@ -1,7 +1,7 @@
 #This File conatins the properties that are common to the pipeline functioning
 
            releaseNumber =  "R2017.03.1"
-    	   #a_comment = "This ia a comment and these shouldn't be considered while scanning the file"            
+   	   #a_comment = "This ia a comment and these shouldn't be considered while scanning the file"            
    	   prop3  =   "abc"
    	   prop4  =   "xyz"
   	   envrionments = [][]
@@ -22,6 +22,8 @@
  }
 
 
+
+}
 
 
 
